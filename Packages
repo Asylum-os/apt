@@ -1,0 +1,14 @@
+Package: win11in-react
+Version: 0.1.5
+Architecture: amd64
+Maintainer: you
+Installed-Size: 26708
+Depends: libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: ./win11in-react_0.1.5_amd64.deb
+Size: 17486506
+MD5sum: 5ff8351782d3cecf8c376f7c8be7ee35
+SHA1: 559b6b1e433eac44fa153d518281ccdf54f370eb
+SHA256: 135dd1dc36f66c3e07976e3cc98aa3598fcec94ec9201007a0b190a54a399cb8
+Description: (none)
+ (none)
+
