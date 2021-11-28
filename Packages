@@ -1,4 +1,60 @@
 Package: win11in-react
+Version: 0.1.1
+Architecture: amd64
+Maintainer: you
+Installed-Size: 26899
+Depends: libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: ./win11in-react_0.1.1_amd64.deb
+Size: 17605798
+MD5sum: c4496145a05b4a0fd97ee516b7389380
+SHA1: 5331c2dd7cac1edec30ecb40bb3f15ef5126d1bd
+SHA256: de003a729e85b9a250ad1704ae8d84469d1ed253d651e8463053d7335d78459a
+Description: (none)
+ (none)
+
+Package: win11in-react
+Version: 0.1.2
+Architecture: amd64
+Maintainer: you
+Installed-Size: 27114
+Depends: libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: ./win11in-react_0.1.2_amd64.deb
+Size: 17826392
+MD5sum: 03c6f99679441ae8f95099f0f9cafa5f
+SHA1: 070857d5d43361484076020bab59ae1d78a76fa7
+SHA256: d6f003f6156829a065fdd8372c589faa2e9d3dd32cf8989cef89b7f4254306a7
+Description: (none)
+ (none)
+
+Package: win11in-react
+Version: 0.1.3
+Architecture: amd64
+Maintainer: you
+Installed-Size: 27214
+Depends: libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: ./win11in-react_0.1.3_amd64.deb
+Size: 17924856
+MD5sum: aaaedd9c1b36b9b33ceff179ada37b42
+SHA1: bea3425e8001610f7b1fda89f5ab3edc3ced6b4b
+SHA256: c2895ba6edf8dc548f38921efac99a7eeb2c5487f4800dc1dc0906c48c817384
+Description: (none)
+ (none)
+
+Package: win11in-react
+Version: 0.1.4
+Architecture: amd64
+Maintainer: you
+Installed-Size: 27215
+Depends: libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: ./win11in-react_0.1.4_amd64.deb
+Size: 17926560
+MD5sum: 91b2d7f06e13c5523daa2ce4fd99b87b
+SHA1: a32dd05e64de7fec4a897449d190eed864fadd9e
+SHA256: 4f5c3fd8f0221011b251cb4e470ed645d2a6f73bf21a5927b632b00ce3754e6a
+Description: (none)
+ (none)
+
+Package: win11in-react
 Version: 0.1.5
 Architecture: amd64
 Maintainer: you
