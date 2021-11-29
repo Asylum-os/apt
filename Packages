@@ -1,3 +1,21 @@
+Package: pufferpanel
+Version: 2.3.2
+Architecture: amd64
+Maintainer: PufferPanel <dev@pufferpanel.com>
+Installed-Size: 0
+Suggests: java-runtime-headless, lib32gcc1
+Filename: ./pufferpanel_2.3.2_amd64.deb
+Size: 18226672
+MD5sum: cc25da6e7404c814790577e56b2becd9
+SHA1: 822b5b92e96313f5afe724aea0f89f9712702382
+SHA256: bba54218c9a2156d83a6dd64d5e0e5ca57aa7bbcb650ef4bbb4d5e89f16d95c2
+Section: default
+Priority: extra
+Homepage: https://pufferpanel.com
+Description: Game management server panel
+License: Apache 2.0
+Vendor: pufferpanel-debbuilder
+
 Package: win11in-react
 Version: 0.1.1
 Architecture: amd64
