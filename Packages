@@ -103,3 +103,17 @@ SHA256: 135dd1dc36f66c3e07976e3cc98aa3598fcec94ec9201007a0b190a54a399cb8
 Description: (none)
  (none)
 
+Package: win11in-react
+Version: 0.1.6
+Architecture: amd64
+Maintainer: you
+Installed-Size: 26598
+Depends: libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: ./win11in-react_0.1.6_amd64.deb
+Size: 17360198
+MD5sum: 770ec7cd6d66eee463994e7f27542422
+SHA1: 01451c33e9c607823694600d69149742e77bdcd9
+SHA256: 818d1a0fea4932f5090cb47262f0a71fbc4d9073a79d1251d8387dc79bc632e8
+Description: (none)
+ (none)
+
