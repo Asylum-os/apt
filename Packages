@@ -33,6 +33,20 @@ Description: Game management server panel
 License: Apache 2.0
 Vendor: pufferpanel-debbuilder
 
+Package: win11-react
+Version: 0.1.7
+Architecture: amd64
+Maintainer: you
+Installed-Size: 26581
+Depends: libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: ./win11-react_0.1.7_amd64.deb
+Size: 17361444
+MD5sum: c806df5776ee2ba6e3976e8f186eb6c7
+SHA1: 4bcf8613b0524648911ee5a51a0c2fda97fc4efb
+SHA256: 45599097fc3a2170fe6abe726c45b0fc2aec29a08535ea6f7fcb83cc9b9089d2
+Description: (none)
+ (none)
+
 Package: win11in-react
 Version: 0.1.1
 Architecture: amd64
